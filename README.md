@@ -22,7 +22,7 @@ You must have 'pyinstaller' installed before you can complete set up.
 
 ### Configuration ###
 
-1. Clone the repository:
+1. Clone and open the repository:
 
 ```
 $ git clone https://github.com/coleyadron/cs330project.git
